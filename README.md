@@ -1,2 +1,2 @@
-# PMJS_SC DataSet
-This file consists of all test instances and solution results for parallel machine transshipment scheduling problem with synchronized operations.
+# CTSP DataSet and their results
+This file consists of all test instances and solution results for the container transshipment scheduling problem (CTSP) with synchronization operations.
